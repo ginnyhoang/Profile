@@ -1,0 +1,15 @@
+body.dark {
+    background: linear-gradient(145.44deg, #000000 0%, #444646 100%);
+  }
+
+.dark-box {
+    background: #232828;
+}
+
+.dark-text {
+    color: #fff !important;
+}
+.dark-title__info,
+.dark-content {
+    background: #252626;
+}
